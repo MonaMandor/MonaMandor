@@ -18,11 +18,19 @@ Hello there! 👋 I'm Mona Mandor, a Junior Flutter developer with one year of e
 
 ## Projects
 ### [Health Care Application with Disease Prediction]
-- **Description**: Brief description of the project.
-- **Technologies Used**: List of technologies used.
-- **[Link to the project, if applicable]**
+- **[[Link to the project](https://github.com/MonaMandor/Health-Care-Application-with-Disease-Prediction)]**
+- - **[[Link to the project viod](https://drive.google.com/file/d/1IBGNZOK9Kv2e97lHojC6s-KzCjAOoa_v/view)]**
 
-### [Project Name 2]
-- **Description**: Brief description of the project.
-- **Technologies Used**: List of technologies used.
-- **[Link to the project, if applicable]**
+
+### [Electronic payment application]
+- **[[Link to the project](https://github.com/MonaMandor/bdaity_pay.git)]**
+- **[[Link to the project viod](https://drive.google.com/drive/folders/1K7hMG_oX_0lSYwluQIjjUJbtl3xd7etq)]**
+
+### [An Iraqi application like the Talabat application]
+- **[[Link to the project](https://github.com/MonaMandor/El-wadah.git)]**
+- **[[Link to the project viod](https://drive.google.com/file/d/1OoF2RqvcOcZnQt3vTK6feC1GmYhUq7eK/view)]**
+
+### [MedicalCoder App]
+ **Description**: A Flutter desktop application designed to assist medical coders in finding medical records efficiently.
+- **[[Link to the project](https://github.com/MonaMandor/Coder.git)]**
+- **[[Link to the project viod](https://drive.google.com/file/d/1QvvAphRv8D5uEcIizqp6lKiza_1NIzlL/view?usp=sharing)]**
