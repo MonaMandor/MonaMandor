@@ -1,7 +1,7 @@
-# Mona Mandor - Junior Flutter Developer
+# Mona Mandor -  Flutter Developer
 
 ## Introduction
-Hello there! 👋 I'm Mona Mandor, a Junior Flutter developer with one year of experience. I specialize in creating efficient and user-friendly mobile applications using Flutter.
+Hello there! 👋 I'm Mona Mandor, a  Flutter developer with 2 years of experience. I specialize in creating efficient and user-friendly mobile applications using Flutter.
 
 - Strong foundation in programming concepts and deep understanding of Object-Oriented Programming (OOP) design principles.
 - Skilled in developing reusable components and implementing clean architecture principles.
